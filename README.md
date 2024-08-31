@@ -3,9 +3,11 @@
   Hey There
 </h1>
 <div id="logos" align="center">
-  <a href="https://www.linkedin.com/in/barath-raj-k-a2569a297/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="50"/></a>
-  <a href="https://www.instagram.com/barathraj_10/"><img src="https://img.shields.io/badge/Instagran-red?logo=instagram&logoColor=white&style=for-the-badge" height="50"/></a>
-  <a href="https://drive.google.com/file/d/1_71wuxvWke8x6h-RAxxaIGKnKAhL1XPP/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-yellow?logo=document&logoColor=white&style=for-the-badge" height="50"/></a>
+  <a href="https://www.linkedin.com/in/barath-raj-k-a2569a297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="50"/></a>
+  <a href="https://drive.google.com/file/d/1_71wuxvWke8x6h-RAxxaIGKnKAhL1XPP/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Resume-yellow?logo=document&logoColor=white&style=for-the-badge" height="50"/></a>
+  <a href="[https://www.instagram.com/barathraj_10](https://leetcode.com/u/barath10/)/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=for-the-badge" height="50"/></a>
+  <br>
+  <a href="https://www.instagram.com/barathraj_10/"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" height="50" target="_blank"/></a>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=barathraj10&style=flat-square&color=blue" alt=""/>
