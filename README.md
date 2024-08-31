@@ -1,7 +1,3 @@
-<div id="header" align="center">
-
-  <img src="https://media.tenor.com/FbIEm5UJ28sAAAAi/spiderman-tom-holland.gif" width="200"/>
-</div>
 <div id="logos" align="center">
   <a href="https://www.linkedin.com/in/barath-raj-k-a2569a297/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="50"/></a>
   <a href="https://www.instagram.com/barathraj_10/"><img src="https://img.shields.io/badge/Instagran-red?logo=instagram&logoColor=white&style=for-the-badge" height="50"/></a>
