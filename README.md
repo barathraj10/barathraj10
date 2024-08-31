@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJybXRpZjV4aWoyMXdxYXlhZnczbHRhdDFvZGticW1iN3p0YmZsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZD3eh9OF3N0KGoM5xj/giphy.gif" width="100"/>
+
+  <img src="https://media.tenor.com/FbIEm5UJ28sAAAAi/spiderman-tom-holland.gif" width="200"/>
 </div>
 <div id="logos" align="center">
   <a href="https://www.linkedin.com/in/barath-raj-k-a2569a297/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="50"/></a>
