@@ -8,9 +8,9 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=barathraj10&style=flat-square&color=blue" alt=""/>
 </div>
-
-### :man_technologist: About Me :
-Hi, I'm Barath Raj K.
+<hr>
+:man_technologist: About Me :
+<b>Hi, I'm Barath Raj K.</b>
 
 🎓 Final year student of Electronics and Communication Engineering at Hindusthan College of Engineering and Technology, passionate about transitioning into the IT field.
 
@@ -28,3 +28,12 @@ Hi, I'm Barath Raj K.
 
 - Deepening my knowledge in React and exploring MongoDB for scalable backend solutions.
 - Preparing for a career in software development with a focus on frontend and backend technologies.
+
+### 🛠️ Languages and Tools:
+<div id="tools" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60";
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+</div>
