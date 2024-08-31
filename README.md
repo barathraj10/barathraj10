@@ -1,3 +1,7 @@
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey There
+</h1>
 <div id="logos" align="center">
   <a href="https://www.linkedin.com/in/barath-raj-k-a2569a297/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="50"/></a>
   <a href="https://www.instagram.com/barathraj_10/"><img src="https://img.shields.io/badge/Instagran-red?logo=instagram&logoColor=white&style=for-the-badge" height="50"/></a>
